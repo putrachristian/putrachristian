@@ -112,3 +112,7 @@ body {
 .item > h1 {
     color: white;
 }
+.project {
+    height: 70vh;
+    margin: auto;
+}
